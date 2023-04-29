@@ -72,10 +72,10 @@ This Slack workspace includes all courses of this specialization.
       - [Another explanation about PCA](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/L3_Another%20explanation%20about%20PCA.ipynb)                
   - **Week 4**
     - Assignment:
-      - [Word Translation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_A1_Word%20Translation.ipynb)
+      - [Word Translation](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1_W4_Assignment.ipynb)
     - Labs: 
-      - [Rotation matrices in R2](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_L1_Rotation%20matrices%20in%20R2.ipynb)
-      - [Hash tables](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/C1W4_L2_Hash%20tables.ipynb)
+      - [Rotation matrices in R2](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/L1_Rotation%20matrices%20in%20R2.ipynb)
+      - [Hash tables](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%204/L2_Hash%20tables.ipynb)
 
 ### Course 2: Natural Language Processing with Probabilistic Models
 
