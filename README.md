@@ -142,29 +142,29 @@ This Slack workspace includes all courses of this specialization.
 
   - **Week 1**
     - Assignment:
-      - [NMT with Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_A1_NMT_with_Attention.ipynb)
+      - [NMT with Attention](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4_W1_Assignment.ipynb)
     - Labs:
-      - [Stack Semantics](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_L1_Ungraded_Lab_Stack_Semantics.ipynb)
-      - [BLEU Score](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%201/C4W1_L2_Ungraded_Lab_Bleu_Score)
+      - [Stack Semantics](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%201)
+      - [BLEU Score](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%201)
   - **Week 2**
     - Assignment:
-      - [Transformer Summarizer](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_A1_Transformer_Summarizer.ipynb)
+      - [Transformer Summarizer](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4_W2_Assignment.ipynb)
     - Labs: 
-      - [Attention](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_L1_Attention.ipynb)
-      - [The Transformer Decoder](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%202/C4W2_L2_Transformer_Decoder.ipynb)
+      - [Attention](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%202)
+      - [The Transformer Decoder](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%202)
   - **Week 3**
     - Assignment:
-      - [Question Answering](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_A1_Question_Answering.ipynb)
+      - [Question Answering](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4_W3_Assignment.ipynb)
     - Labs: 
-      - [SentencePiece and BPE](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L1_SentencePiece_and_BPE.ipynb)
-      - [BERT Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L2_BERT_Loss.ipynb)
-      - [T5](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%203/C4W3_L3_T5.ipynb)      
+      - [SentencePiece and BPE](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%203)
+      - [BERT Loss](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%203)
+      - [T5](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%203)      
   - **Week 4**
     - Assignment:
-      - [Chatbot](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_A1_Chatbot.ipynb)
+      - [Chatbot](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4_W4_Assignment.ipynb)
     - Labs:
-      - [Reformer LSH](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L1_Ungraded_Lab_Reformer_LSH.ipynb)
-      - [Revnet](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Week%204/C4W4_L2_Ungraded_Lab_Revnet.ipynb)
+      - [Reformer LSH](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%204)
+      - [Revnet](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%204-Natural%20Language%20Processing%20with%20Attention%20Models/Week%204)
       
 
 ## Certificate
