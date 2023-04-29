@@ -127,16 +127,16 @@ This Slack workspace includes all courses of this specialization.
       - [Creating a GRU model using Trax](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L4_Creating%20a%20GRU%20model%20using%20Trax.ipynb)
   - **Week 3**
     - Assignment:
-      - [Named Entity Recognition (NER)](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/C3W3_A1_Named%20Entity%20Recognition.ipynb)
+      - [Named Entity Recognition (NER)](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/C3_W3_Assignment.ipynb)
     - Labs: 
-      - [Vanishing Gradients](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203/C3W3_L1_Vanishing%20Gradients.ipynb)
+      - [Vanishing Gradients](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%203)
   - **Week 4**
     - Assignment:
-      - [Question duplicates](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_A1_Question%20duplicates.ipynb)
+      - [Question duplicates](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3_W4_Assignment.ipynb)
     - Labs:
-      - [Creating a Siamese Model using Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L1_Creating%20a%20Siamese%20Model%20using%20Trax.ipynb)
-      - [Modified Triplet Loss](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L2_Modified%20Triplet%20Loss.ipynb)             
-      - [Evaluate a Siamese Model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L3_Evaluate%20a%20Siamese%20Model.ipynb)             
+      - [Creating a Siamese Model using Trax](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L1_Creating%20a%20Siamese%20Model%20using%20Trax.ipynb)
+      - [Modified Triplet Loss](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L2_Modified%20Triplet%20Loss.ipynb)             
+      - [Evaluate a Siamese Model](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%204/C3W4_L3_Evaluate%20a%20Siamese%20Model.ipynb)             
 
 ### Course 4: Natural Language Processing with Attention Models
 
