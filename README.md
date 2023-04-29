@@ -122,8 +122,8 @@ This Slack workspace includes all courses of this specialization.
       - [Deep N-grams](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3_W2_Assignment.ipynb)
     - Labs: 
       - [Hidden State Activation](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L1_Hidden_State_Activation.ipynb)
-      - [Working with JAX NumPy and Calculating Perplexity](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course 3-Natural Language Processing with Sequence Models/Week 2)
-      - [Vanilla RNNs, GRUs and the scan function](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course 3-Natural Language Processing with Sequence Models/Week 2)
+      - [Working with JAX NumPy and Calculating Perplexity](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main)
+      - [Vanilla RNNs, GRUs and the scan function](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main)
       - [Creating a GRU model using Trax](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_L4_Creating%20a%20GRU%20model%20using%20Trax.ipynb)
   - **Week 3**
     - Assignment:
