@@ -93,11 +93,11 @@ This Slack workspace includes all courses of this specialization.
       - [Working with tags and NumPy](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
   - **Week 3**
     - Assignment:
-      - [Autocomplete](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_A1_Autocomplete.ipynb)
+      - [Autocomplete](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2_W3_Assignment.ipynb)
     - Labs: 
-      - [Corpus preprocessing for N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L1_Corpus%20preprocessing%20for%20N-grams.ipynb)
-      - [Building the language model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L2_Building%20the%20language%20model.ipynb)
-      - [Language model generalization](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L3_Language%20model%20generalization.ipynb)                
+      - [Corpus preprocessing for N-grams](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203)
+      - [Building the language model](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L2_Building%20the%20language%20model.ipynb)
+      - [Language model generalization](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L3_Language%20model%20generalization.ipynb)                
   - **Week 4**
     - Assignment:
       - [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_A1_Word%20Embeddings.ipynb)
