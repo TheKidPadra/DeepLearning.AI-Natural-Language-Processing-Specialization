@@ -81,10 +81,10 @@ This Slack workspace includes all courses of this specialization.
 
   - **Week 1**
     - Assignment:
-      - [Autocorrect](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_A1_Autocorrect.ipynb)
+      - [Autocorrect](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2_W1_Assignment.ipynb)
     - Labs: 
-      - [Building the vocabulary](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L1_Building%20the%20vocabulary.ipynb)
-      - [Candidates from edits](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
+      - [Building the vocabulary](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L1_Building%20the%20vocabulary.ipynb)
+      - [Candidates from edits](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
   - **Week 2**
     - Assignment:
       - [Part of Speech Tagging](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_A1_Part%20of%20Speech%20Tagging.ipynb)
