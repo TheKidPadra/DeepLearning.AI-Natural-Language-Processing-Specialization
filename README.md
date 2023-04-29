@@ -112,11 +112,11 @@ This Slack workspace includes all courses of this specialization.
 
   - **Week 1**
     - Assignment:
-      - [Sentiment with Deep Neural Networks](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_A1_Sentiment%20with%20Deep%20Neural%20Networks.ipynb)
+      - [Sentiment with Deep Neural Networks](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3_W1_Assignment.ipynb)
     - Labs:
-      - [Introduction to Trax](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L1_Introduction%20to%20Trax.ipynb)
-      - [Classes and Subclasses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L2_Classes%20and%20Subclasses.ipynb)
-      - [Data Generators](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L3_Data%20Generators.ipynb)
+      - [Introduction to Trax](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L1_Introduction%20to%20Trax.ipynb)
+      - [Classes and Subclasses](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L2_Classes%20and%20Subclasses.ipynb)
+      - [Data Generators](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%203-Natural%20Language%20Processing%20with%20Sequence%20Models/Week%201/C3W1_L3_Data%20Generators.ipynb)
   - **Week 2**
     - Assignment:
       - [Deep N-grams](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Week%202/C3W2_A1_Deep%20N-grams.ipynb)
