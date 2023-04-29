@@ -87,10 +87,10 @@ This Slack workspace includes all courses of this specialization.
       - [Candidates from edits](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%201/C2W1_L2_Candidates%20from%20edits.ipynb)
   - **Week 2**
     - Assignment:
-      - [Part of Speech Tagging](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_A1_Part%20of%20Speech%20Tagging.ipynb)
+      - [Part of Speech Tagging](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2_W2_Assignment.ipynb)
     - Labs: 
-      - [Working with text data](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
-      - [Working with tags and NumPy](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
+      - [Working with text data](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L1_Working%20with%20text%20data.ipynb)
+      - [Working with tags and NumPy](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%202/C2W2_L2_Working%20with%20tags%20and%20Numpy.ipynb)
   - **Week 3**
     - Assignment:
       - [Autocomplete](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_A1_Autocomplete.ipynb)
