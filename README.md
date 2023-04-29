@@ -60,9 +60,9 @@ This Slack workspace includes all courses of this specialization.
       - [Visualizing tweets and Logistic Regression models](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/L3_Visualizing%20tweets%20and%20Logistic%20Regression%20models.ipynb)
   - **Week 2**
     - Assignment:
-      - [Naive Bayes](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_A1_Naive%20Bayes.ipynb)
+      - [Naive Bayes](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1_W2_Assignment.ipynb)
     - Labs:
-      - [Visualizing likelihoods and confidence ellipses](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_L1_Visualizing%20likelihoods%20and%20confidence%20ellipses.ipynb)
+      - [Visualizing likelihoods and confidence ellipses](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/L1_Visualizing%20likelihoods%20and%20confidence%20ellipses.ipynb)
   - **Week 3**
     - Assignment:
       - [Word Embeddings: Hello Vectors](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%203/C1W3_A1_Word%20Embeddings.ipynb)
