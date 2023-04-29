@@ -100,13 +100,13 @@ This Slack workspace includes all courses of this specialization.
       - [Language model generalization](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%203/C2W3_L3_Language%20model%20generalization.ipynb)                
   - **Week 4**
     - Assignment:
-      - [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_A1_Word%20Embeddings.ipynb)
+      - [Word Embeddings](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2_W4_Assignment.ipynb)
     - Labs: 
-      - [Data Preparation](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L1_Data%20Preparation.ipynb)
-      - [Intro to CBOW model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
-      - [Training the CBOW model](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L3_Training%20the%20CBOW%20model.ipynb)
-      - [Word Embeddings](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L4_Word%20Embeddings.ipynb)
-      - [Word Embeddings Step by Step](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L5_Word%20Embeddings%20Step%20by%20Step.ipynb)
+      - [Data Preparation](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L1_Data%20Preparation.ipynb)
+      - [Intro to CBOW model](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L2_Intro%20to%20CBOW%20model.ipynb)             
+      - [Training the CBOW model](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L3_Training%20the%20CBOW%20model.ipynb)
+      - [Word Embeddings](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L4_Word%20Embeddings.ipynb)
+      - [Word Embeddings Step by Step](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%202-Natural%20Language%20Processing%20with%20Probabilistic%20Models/Week%204/C2W4_L5_Word%20Embeddings%20Step%20by%20Step.ipynb)
 
 ### Course 3: Natural Language Processing with Sequence Models
 
