@@ -53,11 +53,11 @@ This Slack workspace includes all courses of this specialization.
 
   - **Week 1**
     - Assignment: 
-      - [Sentiment Analysis with Logistic Regression](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_A1_Logistic%20Regression.ipynb)
+      - [Sentiment Analysis with Logistic Regression](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1_W1_Assignment.ipynb)
     - Labs: 
-      - [Natural language Preprocessing](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L1_Natural%20language%20preprocessing.ipynb)
-      - [Visualizing word frequencies](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L2_Visualizing%20word%20frequencies.ipynb)
-      - [Visualizing tweets and Logistic Regression models](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/C1W1_L3_Visualizing%20tweets%20and%20Logistic%20Regression%20models.ipynb)
+      - [Natural language Preprocessing](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/L1_Natural%20language%20preprocessing.ipynb)
+      - [Visualizing word frequencies](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/L2_Visualizing%20word%20frequencies.ipynb)
+      - [Visualizing tweets and Logistic Regression models](https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Course%201-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%201/L3_Visualizing%20tweets%20and%20Logistic%20Regression%20models.ipynb)
   - **Week 2**
     - Assignment:
       - [Naive Bayes](https://nbviewer.jupyter.org/github/amanchadha/coursera-natural-language-processing-specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Week%202/C1W2_A1_Naive%20Bayes.ipynb)
