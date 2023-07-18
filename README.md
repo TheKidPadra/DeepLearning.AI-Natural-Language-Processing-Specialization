@@ -1,4 +1,3 @@
-# Natural Language Processing Specialization on Coursera (offered by deeplearning.ai)
 
 <p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Assets/NLP.png" /></p>
 
