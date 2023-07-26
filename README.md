@@ -1,5 +1,7 @@
 
 
+This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing), unless specified otherwise.
+
 ## Courses
 
 The [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) on Coursera contains four courses:
