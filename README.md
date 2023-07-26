@@ -1,5 +1,7 @@
 
 
+<p align="center"><img width="auto" src="https://github.com/TheKidPadra/DeepLearning.AI-Natural-Language-Processing-Specialization/blob/main/Assets/NLP.png" /></p>
+
 Programming assignments from all courses in the Coursera [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing) offered by `deeplearning.ai`.
 
 ## Credits
